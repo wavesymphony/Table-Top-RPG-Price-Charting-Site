@@ -21,4 +21,5 @@
 	For this project, I will be implementing the best security practices I am able, but if I deploy this on a permanent basis, I may have a security expert look over my site to make sure the data integrity is safe. 
 ## Conclusion
 	I believe that this is a project I can complete within the time frame of the semester. I do not believe it is overreaching in any way. It will also be beneficial not only for my personal portfolio, but I also believe it will benefit not only myself, but others. Once I have completed the app, after the semester, I am strongly considering buying my own website space and hosting it on a continual basis allowing it to grow. 
-	
+![Preview](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/Images/architecturediagram.drawio.png?raw=true)</p>	
+![Preview](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/Images/TTRPGPriceChartWireFrame.drawio-2.png?raw=true)
