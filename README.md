@@ -65,5 +65,5 @@
 		The user
 		Organize by price/items/popular/new
 		The user will be able to organize or sort the list by certain criteria
-##Use Case Diagram
+## Use Case Diagram
 	![Preview](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/Images/UserCases.drawio.png?raw=true)
