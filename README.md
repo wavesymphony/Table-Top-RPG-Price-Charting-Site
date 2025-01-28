@@ -24,3 +24,19 @@
 ![Preview](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/Images/architecturediagram.drawio.png?raw=true)</p>	
 ![Preview](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/Images/TTRPGPriceChartWireFrame.drawio-2.png?raw=true)
 ![Preview](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/Images/Database%20PHP.drawio-2.png?raw=true)
+## User Stories
+	As a user
+	I want/need to document my collection
+	So that I can keep track of my items
+ 	As a user
+	I want/need to price my items
+	So that so that I can keep track of my collections value
+	As a user
+	I want/need to track items I don't own
+	So that I know what items to add to my collection
+ 	As a user
+	I want/need to view others collections
+	So that I know what people are buying/selling
+ 	As a user
+  	I want/need to see what is being sold
+   	So that I can sell my own items
