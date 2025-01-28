@@ -41,28 +41,27 @@
   	I want/need to see what is being sold
    	So that I can sell my own items
 ## User Cases
-	Logging in
-	User access to database/website
-	Users of the site
-	Users will log into a log in portal
-	The user is logged in
- 	Brief description (or title)
-	Personal User Portal
-	The user
-	The user will be greeted by a portal with all there personal items
-	The user will manage and add/delete from their collection
- 	Brief description (or title)
-	Main item database
-	The user
-	The user will browse the collection catalog
-	The user will be able to browse, find, and add items from the main collection
- 	Brief description (or title)
-	Add to the catalog
-	The user
-	The user seeks to add a product to the main catalog
-	The item is added to the main catalog
- 	Brief description (or title)
-	Price charting
-	The user
-	Organize by price/items/popular/new
-	The user will be able to organize or sort the list by certain criteria
+	### Logging in
+		User access to database/website
+		Users of the site
+	### Users will log into a log in portal
+		The user is logged in
+	### Personal User Portal
+		The user
+		The user will be greeted by a portal with all there personal items
+		The user will manage and add/delete from their collection
+ 	### Database
+		Main item database
+		The user
+		The user will browse the collection catalog
+		The user will be able to browse, find, and add items from the main collection
+ 	### Add to catelog
+		Add to the catalog
+		The user
+		The user seeks to add a product to the main catalog
+		The item is added to the main catalog
+ 	### Browsing the catalog by type
+		Price charting
+		The user
+		Organize by price/items/popular/new
+		The user will be able to organize or sort the list by certain criteria
