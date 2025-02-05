@@ -25,37 +25,38 @@ For this project, I will be implementing the best security practices I am able, 
 ![Preview](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/Images/Database%20PHP.drawio-2.png?raw=true)
 
 ## User Stories
-As a user I want/need to document my collection So that I can keep track of my items.
-As a user I want/need to price my items So that so that I can keep track of my collections value
-As a user I want/need to track items I don't own So that I know what items to add to my collection
-As a user I want/need to view others collections So that I know what people are buying/selling 
-As a user I want/need to see what is being sold So that I can sell my own items
+As a user I want/need to document my collection So that I can keep track of my items.<br>
+As a user I want/need to price my items So that so that I can keep track of my collections value.<br>
+As a user I want/need to track items I don't own So that I know what items to add to my collection.<br>
+As a user I want/need to view others collections So that I know what people are buying/selling.<br>
+As a user I want/need to see what is being sold So that I can sell my own items.<br>
 
 ## User Cases
-	### Logging in
-		User access to database/website
-		Users of the site
-	### Users will log into a log in portal
-		The user is logged in
-	### Personal User Portal
-		The user
-		The user will be greeted by a portal with all there personal items
-		The user will manage and add/delete from their collection
- 	### Database
-		Main item database
-		The user
-		The user will browse the collection catalog
-		The user will be able to browse, find, and add items from the main collection
- 	### Add to catelog
-		Add to the catalog
-		The user
-		The user seeks to add a product to the main catalog
-		The item is added to the main catalog
- 	### Browsing the catalog by type
-		Price charting
-		The user
-		Organize by price/items/popular/new
-		The user will be able to organize or sort the list by certain criteria
+### Logging in
+User access to database/website<br>
+Users of the site<br>
+### Users will log into a log in portal
+The user is logged in<br>
+### Personal User Portal
+The user<br>
+The user will be greeted by a portal with all there personal items<br>
+The user will manage and add/delete from their collection<br>
+### Database
+Main item database<br>
+The user<br>
+The user will browse the collection catalog<br>
+The user will be able to browse, find, and add items from the main collection<br>
+### Add to catelog
+Add to the catalog<br>
+The user<br>
+The user seeks to add a product to the main catalog<br>
+The item is added to the main catalog<br>
+### Browsing the catalog by type
+Price charting<br>
+The user<br>
+Organize by price/items/popular/new<br>
+The user will be able to organize or sort the list by certain criteria<br>
+
 ## Use Case Diagram
 ![Preview](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/Images/UserCases.drawio.png?raw=true)
 ![Preview](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/Images/UserCase.drawio.png?raw=true)
