@@ -1,6 +1,7 @@
 # Table-Top-Role-Playing-Game-Price-Charting-Site
 I am developing a Web App that will keep track of Table Top Role Playing Game book price charting.
 ## Table of Contents
+[Client portal](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#client-portal)<br>
 
 ## Client portal
 I am going to code the client portal in HTML5, CSS, and Bootstrap. This will be the main portal where individuals can access the list on the web. It will have a login section that allow users to login to the portal, and it will have the individual components such as uploading information to the database. This is how I will create a basic HTML5 form for the login process https://www.w3schools.com/howto/howto_css_login_form.asp. And then I would like to add something similar to this: https://dzone.com/articles/ceate-a-login-system-using-html-php-and-mysql. 
