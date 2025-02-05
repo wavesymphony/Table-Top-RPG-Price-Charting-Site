@@ -2,17 +2,17 @@
 I am developing a Web App that will keep track of Table Top Role Playing Game book price charting.
 ## Table of Contents
 [Client portal](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#client-portal)<br>
-[API Development](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#api-development)
-[Database Development](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#database-development)
-[Hosting](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#hosting)
-[Types of Application](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#types-of-application)
-[My Process](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#my-process)
-[Types of Data](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#types-of-data)
-[Security](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#security)
-[Wire Frame Diagrams](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#wire-frame-diagrams)
-[User Stories](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#user-stories)
-[User Cases](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#user-cases)
-[Use Case Diagram](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#use-case-diagram)
+[API Development](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#api-development)<br>
+[Database Development](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#database-development)<br>
+[Hosting](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#hosting)<br>
+[Types of Application](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#types-of-application)<br>
+[My Process](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#my-process)<br>
+[Types of Data](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#types-of-data)<br>
+[Security](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#security)<br>
+[Wire Frame Diagrams](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#wire-frame-diagrams)<br>
+[User Stories](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#user-stories)<br>
+[User Cases](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#user-cases)<br>
+[Use Case Diagram](https://github.com/wavesymphony/Table-Top-RPG-Price-Charting-Site/blob/main/README.md#use-case-diagram)<br><br>
 ## Client portal
 I am going to code the client portal in HTML5, CSS, and Bootstrap. This will be the main portal where individuals can access the list on the web. It will have a login section that allow users to login to the portal, and it will have the individual components such as uploading information to the database. This is how I will create a basic HTML5 form for the login process https://www.w3schools.com/howto/howto_css_login_form.asp. And then I would like to add something similar to this: https://dzone.com/articles/ceate-a-login-system-using-html-php-and-mysql. 
 ## API Development
